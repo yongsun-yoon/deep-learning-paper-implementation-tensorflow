@@ -12,6 +12,7 @@
 
 * Google Colaboratory Pro
 * GPU : Tesla P100
+* Framework : Tensorflow 2.x
 
 
 
