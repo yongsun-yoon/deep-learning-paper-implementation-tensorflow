@@ -20,4 +20,22 @@
 
 * 개인의 연구와 학습을 목적으로 하기 데이터셋과 하이퍼파라미터가 원본과 상이할 수 있음
 
-    
+
+
+## 논문 목록
+
+### 1. General
+
+- Sergey Ioffe, Batch Noramlization _ Accelerating Deep Network Training by Reducing Internal Covariate Shift
+
+### 2. Vision
+
+- Karen Simonyan, Very Deep Convolutional Networks for Large Scale Image Recognition (VGG)
+
+### 3. NLP
+
+- Jacob Devlin, BERT _ Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+### 4. RL
+
+- Volodymyr Mnih, Playing Atari with Deep Reinforcement Learning (DQN)
