@@ -39,3 +39,4 @@
 ### 4. RL
 
 - Volodymyr Mnih, Playing Atari with Deep Reinforcement Learning (DQN)
+- Volodymyr Mnih, Asynchronous Methods for Deep Reinforcement Learning (A3C)
