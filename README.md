@@ -40,3 +40,7 @@
 
 - Volodymyr Mnih, Playing Atari with Deep Reinforcement Learning (DQN)
 - Volodymyr Mnih, Asynchronous Methods for Deep Reinforcement Learning (A3C)
+
+### 5. Recommender
+
+* Xiangnan He, Neural Collaborative Filtering
