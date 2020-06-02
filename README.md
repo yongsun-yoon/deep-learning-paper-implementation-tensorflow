@@ -41,6 +41,7 @@
 
 - Volodymyr Mnih, Playing Atari with Deep Reinforcement Learning (DQN)
 - Volodymyr Mnih, Asynchronous Methods for Deep Reinforcement Learning (A3C)
+- John Schulman, Proximal Policy Optimization Algorithms (PPO)
 
 ### 5. Recommender
 
