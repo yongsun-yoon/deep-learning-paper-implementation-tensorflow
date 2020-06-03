@@ -19,6 +19,7 @@
 ## 주의 사항
 
 * 개인의 연구와 학습을 목적으로 하기 때문에 데이터셋과 하이퍼파라미터가 원본과 상이할 수 있음
+* 오류 및 개선점에 대한 피드백은 감사히 받겠습니다!
 
 
 
@@ -46,3 +47,4 @@
 ### 5. Recommender
 
 * Xiangnan He, Neural Collaborative Filtering
+* Yao Wu, Collaborative Denoising Auto-Encoders for Top-N Recommender Systems (CDAE)
