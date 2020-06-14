@@ -48,3 +48,7 @@
 
 * Xiangnan He, Neural Collaborative Filtering
 * Yao Wu, Collaborative Denoising Auto-Encoders for Top-N Recommender Systems (CDAE)
+
+### 6. Signal
+
+* Oskar J Triebe, AR-Net _ A Simple Auto-Regressive Neural Network for Time-Series
