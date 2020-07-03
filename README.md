@@ -32,6 +32,7 @@
 ### 2. Vision
 
 - Karen Simonyan, Very Deep Convolutional Networks for Large Scale Image Recognition (VGG)
+- Ke Li, Implicit Maximum Likelihood Estimation
 
 ### 3. NLP
 
