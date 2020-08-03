@@ -38,6 +38,7 @@
 
 - Jacob Devlin, BERT _ Pre-training of Deep Bidirectional Transformers for Language Understanding
 - Lantao Yu, SeqGAN _ Sequence Generative Adversarial Nets with Policy Gradient
+- Tanja Bunk, DIET _ Lightweight Language Understanding for Dialogue Systems
 
 ### 4. RL
 
