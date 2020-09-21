@@ -26,8 +26,10 @@
 ## 논문 목록
 
 ### 1. General
+- Diederik P. Kingma, ADAM _ A Method for Stochastic Optimization, [code link](https://nbviewer.jupyter.org/github/respect5716/Deep_Learning_Paper_Implementation/blob/master/01_General/ADAM _ A Method for Stochastic Optimization.ipynb)
+- Sergey Ioffe, Batch Noramlization _ Accelerating Deep Network Training by Reducing Internal Covariate Shift, [code link](https://nbviewer.jupyter.org/github/respect5716/Deep_Learning_Paper_Implementation/blob/master/01_General/Batch Normalization _ Accelerating Deep Network Training by Reducing Internal Covariate Shift.ipynb)
+- Nitish Srivastava, Dropout _ A Simple Way to Prevent Neural Networks from Overfitting, [code link](https://nbviewer.jupyter.org/github/respect5716/Deep_Learning_Paper_Implementation/blob/master/01_General/Dropout _ A Simple Way to Prevent Neural Networks from Overfitting.ipynb)
 
-- Sergey Ioffe, Batch Noramlization _ Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
 ### 2. Vision
 
