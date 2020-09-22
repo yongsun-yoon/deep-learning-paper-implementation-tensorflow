@@ -29,6 +29,7 @@
 - Diederik P. Kingma, ADAM _ A Method for Stochastic Optimization
 - Sergey Ioffe, Batch Noramlization _ Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - Nitish Srivastava, Dropout _ A Simple Way to Prevent Neural Networks from Overfitting
+- Michael R Zhang, Lookahead Optimizer _ k steps forward _ 1 step backward
 
 ### 2. Vision
 
