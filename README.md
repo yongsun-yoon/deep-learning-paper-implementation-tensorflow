@@ -35,6 +35,7 @@
 ### 2. Vision
 
 * Leon A. Gatys, Image Style Transfer Using Convolutional Neural Networks
+* Alec Radford, Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 
 ### 3. NLP
 
