@@ -30,6 +30,7 @@
 - Sergey Ioffe, Batch Noramlization _ Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - Nitish Srivastava, Dropout _ A Simple Way to Prevent Neural Networks from Overfitting
 - Michael R Zhang, Lookahead Optimizer _ k steps forward _ 1 step backward
+- Barret Zoph,  Neural Architecture Search with Reinforcement Learning
 
 ### 2. Vision
 
