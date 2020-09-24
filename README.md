@@ -34,8 +34,7 @@
 
 ### 2. Vision
 
-- Karen Simonyan, Very Deep Convolutional Networks for Large Scale Image Recognition (VGG)
-- Ke Li, Implicit Maximum Likelihood Estimation
+* Leon A. Gatys, Image Style Transfer Using Convolutional Neural Networks
 
 ### 3. NLP
 
