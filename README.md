@@ -34,6 +34,7 @@
 
 ### 2. Vision
 
+* Alexey Dosovitskiy, An Image Is Worth 16x16 Words _ Transformers for Image Recognition at Scale
 * Leon A. Gatys, Image Style Transfer Using Convolutional Neural Networks
 * Jun-Yan Zhu, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 * Alec Radford, Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
