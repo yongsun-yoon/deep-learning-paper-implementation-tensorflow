@@ -19,7 +19,6 @@
 ## 주의 사항
 
 * 개인의 연구와 학습을 목적으로 하기 때문에 데이터셋과 하이퍼파라미터가 원본과 상이할 수 있음
-* 오류 및 개선점에 대한 피드백은 감사히 받겠습니다!
 
 
 
@@ -36,9 +35,11 @@
 
 * Alexey Dosovitskiy, An Image Is Worth 16x16 Words _ Transformers for Image Recognition at Scale
 * Diederik P Kingma, Auto-Encoding Variational Bayes
+* Kaiming He, Deep Residual Learning for Image Recognition
 * Leon A. Gatys, Image Style Transfer Using Convolutional Neural Networks
 * Jun-Yan Zhu, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 * Alec Radford, Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+* Karen Simonyan, Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)
 
 ### 3. NLP
 
